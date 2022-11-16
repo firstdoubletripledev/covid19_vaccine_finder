@@ -1,13 +1,13 @@
-<img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad.png" width="400" height="400"></img> <img align="center" src="https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/static/images/ipad2.png" width="400" height="400"></img>
+<img align="center" src="https://github.com/firstdoubletripledev/COVID_19_VaccineFinder/blob/main/static/images/ipad.png" width="400" height="400"></img> <img align="center" src="https://github.com/firstdoubletripledev/COVID_19_VaccineFinder/blob/main/static/images/ipad2.png" width="400" height="400"></img>
 
 <h1 align="center">COVID-19 Vaccine Finder</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/github/v/release/AkhileshThite/COVID-19-VaccineFinder?color=1FC71F" alt="GitHub release" />
-  <img src="https://img.shields.io/github/repo-size/AkhileshThite/COVID-19-VaccineFinder" alt="platform">
+  <img src="https://img.shields.io/github/v/release/firstdoubletripledev/COVID-19-VaccineFinder?color=1FC71F" alt="GitHub release" />
+  <img src="https://img.shields.io/github/repo-size/firstdoubletripledev/COVID-19-VaccineFinder" alt="platform">
   <!-- Open issues & PRs
-  <img src="https://img.shields.io/github/issues/AkhileshThite/COVID-19-VaccineFinder" alt="GitHub issues" />
-  <img src="https://img.shields.io/github/issues-pr/AkhileshThite/COVID-19-VaccineFinder" alt="GitHub pull requests" />
+  <img src="https://img.shields.io/github/issues/firstdoubletripledev/COVID-19-VaccineFinder" alt="GitHub issues" />
+  <img src="https://img.shields.io/github/issues-pr/firstdoubletripledev/COVID-19-VaccineFinder" alt="GitHub pull requests" />
   -->
 <!--   <img src="https://img.shields.io/github/issues-search/AkhileshThite/COVID-19-VaccineFinder?label=merged%20PRs&query=is%3Apr+is%3Aclosed+is%3Amerged&color=purple" alt="Merged Pull Requests" /> -->
 </div>
@@ -76,4 +76,4 @@ I highly encourage you to raise issues & PRs for bugs & new features.
 
 
 ### ➔ License ⚖️
-[MIT license](https://github.com/AkhileshThite/COVID-19-VaccineFinder/blob/main/LICENSE) 
+[MIT license](https://github.com/firstdoubletripledev/COVID-19-VaccineFinder/blob/main/LICENSE) 
